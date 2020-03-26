@@ -11,6 +11,9 @@
         <Label Text="Let's gonna test Jenkins integration!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        <Label Text="And now, also the Slack with Jenkins! " 
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
     </StackLayout>
 
 </ContentPage>
