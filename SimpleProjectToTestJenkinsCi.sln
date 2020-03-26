@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleProjectToTestJenkinsC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleProjectToTestJenkinsCi", "SimpleProjectToTestJenkinsCi\SimpleProjectToTestJenkinsCi.csproj", "{E78F6510-1B55-46BF-98A6-AB90EDAFE004}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleProjectToTestJenkinsCi.UnitTests", "SimpleProjectToTestJenkinsCi.UnitTests\SimpleProjectToTestJenkinsCi.UnitTests.csproj", "{B9F0BB66-CF9D-4EFF-A81B-037EFA610B45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,18 @@ Global
 		{E78F6510-1B55-46BF-98A6-AB90EDAFE004}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{E78F6510-1B55-46BF-98A6-AB90EDAFE004}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{E78F6510-1B55-46BF-98A6-AB90EDAFE004}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{B9F0BB66-CF9D-4EFF-A81B-037EFA610B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F0BB66-CF9D-4EFF-A81B-037EFA610B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F0BB66-CF9D-4EFF-A81B-037EFA610B45}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{B9F0BB66-CF9D-4EFF-A81B-037EFA610B45}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{B9F0BB66-CF9D-4EFF-A81B-037EFA610B45}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{B9F0BB66-CF9D-4EFF-A81B-037EFA610B45}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{B9F0BB66-CF9D-4EFF-A81B-037EFA610B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F0BB66-CF9D-4EFF-A81B-037EFA610B45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F0BB66-CF9D-4EFF-A81B-037EFA610B45}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{B9F0BB66-CF9D-4EFF-A81B-037EFA610B45}.Release|iPhone.Build.0 = Release|Any CPU
+		{B9F0BB66-CF9D-4EFF-A81B-037EFA610B45}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{B9F0BB66-CF9D-4EFF-A81B-037EFA610B45}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
